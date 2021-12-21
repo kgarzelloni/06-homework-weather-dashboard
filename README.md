@@ -38,4 +38,4 @@ The following image shows the web application's appearance and functionality:
 ![The weather app includes a search option, a list of cities, and a five-day forecast and a container for current weather conditions.](./Assets/weatherdashboard.png)
 
 ## URL to deployed page
-
+ https://kgarzelloni.github.io/06-homework-weather-dashboard/
