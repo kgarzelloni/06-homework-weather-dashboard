@@ -14,7 +14,7 @@ document.getElementById("submit-button").addEventListener("click", function () {
   else {
     cityArray.shift()
     cityArray.push(cityName.value)
-    
+  
   }
 
   localStorage.setItem("cities", cityArray);
